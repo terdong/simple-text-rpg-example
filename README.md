@@ -1,5 +1,5 @@
-# text-rpg-example
-This program is a text role playing game made by Java
+# simple-text-rpg-example
+This program is a simple text role playing game made by Java
 
 ### 이 프로그램은
 
