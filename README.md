@@ -10,11 +10,11 @@ This program is a simple text role playing game with Java
 
 컴파일 방법(How to compile)
 ---------------------------
-    javac -d .\classes -sourcepath .\src .\src\com\teamgehem\simple_rpg\SimpleTextRpgLauncher.java -encoding utf-8
+    javac -d ./classes -sourcepath ./src ./src/com/teamgehem/simple_rpg/SimpleTextRpgLauncher.java -encoding utf-8
 
 
 실행 방법(How to run)
 ---------------------
-    java -cp .\classes com.teamgehem.simple_rpg.SimpleTextRpgLauncher 
+    java -cp ./classes com.teamgehem.simple_rpg.SimpleTextRpgLauncher 
 
 문의(contact me): terdong@naver.com
